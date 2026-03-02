@@ -110,5 +110,9 @@
   {
     "id": "elevation",
     "name": "仰望"
+  },
+  {
+    "id": "vantage_point",
+    "name": "制高点"
   }
 ]
