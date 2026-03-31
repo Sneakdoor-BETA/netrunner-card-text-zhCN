@@ -8,7 +8,7 @@ a_teia_ip_recovery,密网：知识产权回收,"限制2台远程服务器。
 每回合你第一次安装一张卡牌到一台远程服务器的根目录或保护一台远程服务器时，你可以从总部安装1张卡牌到另一台远程服务器的根目录或保护另一台远程服务器，忽略所有的费用。你本回合不能将后者计分。"
 aaron_marron,亚伦·马伦,"每当一个议案被计分或窃取时，放置2枚能量指示物到亚伦·马伦上。
 <strong>所附载的能量指示物</strong>：移除1枚锁定标记并补一张卡牌。"
-abaasy,阿巴契,"每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，你可以从你的操控器销毁1张卡牌，以抽1张卡牌。
+abaasy,阿巴契,"每回合本程序第一次完全破解一层防火墙时，你可以从你的操控器销毁1张卡牌，以抽1张卡牌。
 对接 → <strong>1[credit]：</strong>破解1条<strong>门禁</strong>子进程。
 <strong>2[credit]：</strong>强度+2。"
 abagnale,阿巴内尔,"对接 → <strong>1[credit]：</strong>破解1条<strong>门禁</strong>子进程。
@@ -26,8 +26,8 @@ account_siphon,账户虹吸,对总部进行一次潜袭。如果成功，你可�
 acme_consulting_the_truth_you_need,极致咨询：你所需的真相,
 active_policing,实时监管,"只有潜袭者在其上回合窃取或销毁过公司卡牌时，才能打出。
 在你结算本事务后，结束你的行动阶段。
-你可以从总部安装1张卡牌。潜袭者在其下回合获得的[click]数量-1。
-威胁3 → 你可以支付2[credit]。如果你如此做，潜袭者在其下回合获得的[click]数量-1。<em>（本能力在任一玩家有3点或更多议案分数时生效。）</em>"
+你可以从总部安装1张卡牌。潜袭者在其下回合获得的起始[click]数量-1。
+威胁3 → 你可以支付2[credit]。如果你如此做，潜袭者在其下回合获得的起始[click]数量-1。<em>（本能力在任一玩家有3点或更多议案分数时生效。）</em>"
 activist_support,激进者的援助,"当公司的回合开始时，如果你没有锁定标记，拿取1枚锁定标记。
 当你的回合开始时，如果公司没有负面声誉标记，给予公司1枚负面声誉标记。"
 ad_blitz,广告闪电战,"作为打出本事务的额外费用，花费[click]。
@@ -119,7 +119,7 @@ angel_arena,天使竞技场,"当天使竞技场被安装时，放置X枚能量�
 angelique_garza_correa,安吉丽克·加尔萨·科雷亚,"威胁3 → [click]，<strong>1</strong>[credit]，<strong>从总部展示并销毁本升级：</strong>造成1点肢体伤害。<em>（本能力在任一玩家有3点或更多议案分数时生效。）</em>
 当潜袭者读取已激活的本升级时，你可以花费2[credit]以造成2点肢体伤害。"
 aniccam,诸行无常,"+1[mu]
-每回合第一次一个事件被销毁时<em>(无论从什么位置)</em>，抽1张卡牌。
+每回合第一次一个事件<em>(从任意位置)</em>被销毁时，抽1张卡牌。
 每位玩家限制1个<strong>控制台</strong>。"
 ankusa,金刚钩,"在一次遭遇中，如果你使用金刚钩破解一个<strong>屏障</strong>上的所有子进程，将该<strong>屏障</strong>加入总部。
 2[credit]：破解<strong>屏障</strong>子进程。
@@ -245,7 +245,7 @@ bank_job,银行任职,
 bankroll,资金,
 banner,旗帜,对接 → <strong>2[credit]：</strong>本次遭遇的剩余时间内，当前正在遭遇的<strong>屏障</strong>上的子进程不能终止本次潜袭。
 basilar_synthgland_2kvj,基底动脉合成腺体2KVJ,"当你安装本硬件时，受到2点核心伤害。
-每回合你获得的[click]数量+1。"
+每回合你获得的起始[click]数量+1。"
 bass_ch1r180g4,巴斯 7里8加,[click]，<strong>[trash]：</strong>获得[click][click]。
 bastion,棱堡,[subroutine] 终止本次潜袭。
 bathynomus,大王具足虫,"只要本防火墙保护档案库，其强度便+3。
@@ -397,7 +397,7 @@ builder,建造者,"[click]：将本防火墙转移到保护任意服务器的最
 building_blocks,构建模块,
 bukhgalter,会计师,"对接 → <strong>1[credit]：</strong>破解1条<strong>警报</strong>子进程。
 <strong>1[credit]：</strong>强度+1。
-每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，获得2[credit]。"
+每回合本程序第一次完全破解一层防火墙时，获得2[credit]。"
 bullfrog,牛蛙,[subroutine] 你和潜袭者秘密花费0[credit]，1[credit]或2[credit]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，转移牛蛙，使其成为保护另一台服务器的最外层防火墙（现在，潜袭者从这个新位置并对这台新服务器继续进行潜袭）。
 bulwark,壁垒,"当你激活壁垒时，拿取1枚负面声誉标记。
 当潜袭者遭遇壁垒时，如果有一个已安装的<strong>智能模块</strong>，获得2[credit]。
@@ -646,7 +646,7 @@ curtain_wall,幕墙,"如果幕墙是保护服务器的最外层防火墙，其�
 [subroutine] 终止本次潜袭。
 [subroutine] 终止本次潜袭。"
 curupira,库鲁皮拉,"每当你遭遇一层<strong>屏障</strong>时，你可以花费3枚所附载的能量指示物，以略过该防火墙。
-每当你仅使用本程序破解所遭遇防火墙上的所有子进程时，放置1枚能量指示物到本程序上。
+每当本程序完全破解一层防火墙时，放置1枚能量指示物到本程序上。
 对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。
 <strong>1[credit]：</strong>强度+1。"
 custom_biotics_engineered_for_success,生命定制所：专为成功设定,你在本牌组中不能包含[jinteki]卡牌。
@@ -1362,7 +1362,7 @@ hyperbaric,高压舱,"当你安装本程序时，放置1枚能量指示物到本
 hyperdriver,超驱动,当你的回合开始时，你可以将超驱动移出游戏并获得[click][click][click]。
 hyperloop_extension,超回路延线,
 hypoxia,缺氧,"只有潜袭者被锁定时，才能打出。
-造成1点核心伤害。潜袭者在其下回合获得的[click]数量-1。
+造成1点核心伤害。潜袭者在其下回合获得的起始[click]数量-1。
 将本事务移出游戏。"
 i_ve_had_worse,这还不算惨,"补三张卡牌。
 每当这还不算惨被网域伤害或肢体伤害销毁时，补三张卡牌。"
@@ -1627,7 +1627,7 @@ llds_energy_regulator,LLDS能量调节器,3[credit]或[trash]：防止一个已�
 llds_memory_diamond,LLDS记忆钻石,
 llds_processor,LLDS处理器,每当你安装一个<strong>破解器</strong>时，该<strong>破解器</strong>的强度+1，直到本回合结束。
 load_testing,负载测试,
-lobisomem,狼人,"当你安装本程序时，及每当你仅使用本程序破解所遭遇<strong>门禁</strong>上的所有子进程时，放置1枚能量指示物到本程序上。
+lobisomem,狼人,"当你安装本程序时，及每当其完全破解一个<strong>门禁</strong>时，放置1枚能量指示物到本程序上。
 对接 → <strong>1[credit]：</strong>破解1条门禁子进程。
 对接 → <strong>X[credit]</strong>，<strong>所附载的能量指示物：</strong>破解X条屏障子进程。
 <strong>1[credit]：</strong>强度+2。"
@@ -1692,7 +1692,7 @@ making_an_entrance,闪亮登场,"仅能在你的第一个[click]打出。
 查看你存储栈顶端的六张卡牌。你可以销毁其中任意数量的卡牌，并按任意顺序排列余下的卡牌。"
 makler,经纪人,"对接 → <strong>2[credit]：</strong>破解最多2条<strong>屏障</strong>子进程。
 <strong>2[credit]：</strong>强度+2。
-每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，获得1[credit]。"
+每回合本程序第一次完全破解一层防火墙时，获得1[credit]。"
 malandragem,街头智慧,"当你安装本程序时，填装2枚能量指示物到本程序上。当其清空时，将其移出游戏。
 每回合限一次 → 当你遭遇一层防火墙时，如果其强度等于或小于3，你可以移除1枚所附载的能量指示物，以略过该防火墙。
 威胁4 → 每当你遭遇一层防火墙时，你可以将本程序移出游戏，以略过该防火墙。"
@@ -2052,7 +2052,7 @@ oracle_may,梅先知,"每回合你不能使用梅先知多于一次。
 oracle_thinktank,神谕智库,"当潜袭者窃取本议案时，给予其1枚锁定标记。
 [click]，<strong>移除1枚锁定标记：</strong>将本议案洗入研发中心。只有本议案在潜袭者的分数区时，公司才能使用本能力。"
 orbital_superiority,轨道压制,当你将本议案计分时，如果潜袭者被锁定，造成4点肢体伤害；否则，给予潜袭者1枚锁定标记。
-orca,逆戟鲸,"每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，你可以对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em>
+orca,逆戟鲸,"每回合本程序第一次完全破解一层防火墙时，你可以对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em>
 对接 → <strong>2[credit]：</strong>破解任意数量的<strong>警报</strong>子进程。
 <strong>2[credit]：</strong>强度+3。"
 order_of_sol,玄晖社,每回合你的信用池中第一次没有信用点时，获得1[credit]。
@@ -2693,7 +2693,7 @@ stoke_the_embers,点燃余烬,"当你将本议案计分时，获得3[credit]并�
 当你从总部以外其他区域安装本议案时，你可以展示之。如果你如此做，获得2[credit]并放置1枚推进指示物到一张已安装的卡牌上。"
 stoneship_chart_room,石船海图室,"[trash]<strong>：</strong>抽2张卡牌。
 [trash]<strong>：</strong>对1张你已安装的卡牌充能。"
-storgotic_resonator,同族共振,"每回合你第一次销毁一张与潜袭者特性派系相同的卡牌时（不论从什么位置），放置1枚能量指示物到本资产上。
+storgotic_resonator,同族共振,"每回合你第一次<em>（从任意位置）</em>销毁一张与潜袭者特性派系相同的卡牌时，放置1枚能量指示物到本资产上。
 [click]，<strong>所附载的能量指示物：</strong>造成1点网域伤害。"
 strategic_innovations_future_forward,战略创新：未来向前,"轮抽赛制限定。
 如果你具有已激活的[haas-bioroid]卡牌多于其它任何派系，则当潜袭者的回合结束时，将一张卡牌从档案库洗入研发中心。"
@@ -2988,7 +2988,7 @@ turntable,转机,"+1[mu]
 每位玩家限制1个<strong>控制台</strong>。"
 turtlebacks,龟甲,
 tycoon,大亨,
-tyr,提尔,"<strong>失去[click]：</strong>破解1条本防火墙上的子进程。公司在其下回合获得的[click]数量+1。只有潜袭者可以使用本能力。
+tyr,提尔,"<strong>失去[click]：</strong>破解1条本防火墙上的子进程。公司在其下回合获得的起始[click]数量+1。只有潜袭者可以使用本能力。
 [subroutine] 造成2点核心伤害。
 [subroutine] 销毁1张已安装的潜袭者卡牌。获得3[credit]。
 [subroutine] 终止本次潜袭。"
@@ -3247,7 +3247,7 @@ clean_getaway,利落脱身,潜袭任意一台服务器。如果成功，获得6[
 lie_low,避风头,"作为打出本事件的额外费用，花费[click]。
 结算下列中的1项：<ul><li>抽4张卡牌。</li><li>移除最多2枚锁定标记。</li></ul>"
 maintenance_access,检修通道,"作为打出本事件的额外费用，花费[click]。
-潜袭档案库。当你将要接驳档案库时<em>（通过所有防火墙后）</em>，将被攻击的服务器改为总部并接驳总部。"
+潜袭档案库。当你<em>（在通过所有防火墙后）</em>将要接驳档案库时，将被攻击的服务器改为总部并接驳总部。"
 transfer_of_wealth,财富转移,潜袭总部。如果成功，拿取1枚锁定标记并且公司失去3[credit]。公司每以此法失去1个信用点，你获得2[credit]。
 detente,共济,"+1[mu]
 每回合你第一次对总部进行成功的潜袭时，你可以从总部随机将1张卡牌牌面朝上附载到本硬件上。<em>（它没有被安装或激活。）</em>
@@ -3287,7 +3287,7 @@ side_hustle,外快,"当你安装本资源时及每次潜袭开始时，放置1[c
 leo_construction_labor_solutions,利奥建工：劳工解决方案,每回合限一次 → <strong>销毁1张被攻击服务器根目录中或保护该服务器的已激活的生化人卡牌：</strong>终止本次潜袭。
 poetri_luxury_brands_all_the_rage,珀依诗奢品：风靡万世,"每当你将一个议案计分时，查看研发中心顶端的3张卡牌。你可以安装其中1张非议案卡牌。
 每当一个议案被窃取时，你可以从总部安装1张非议案卡牌。"
-aggressive_trendsetting,锐创潮流,潜袭者在其每个回合中第一次销毁一张已安装的公司卡牌时，其可以花费[click]。如果其未如此做，你在下回合获得的[click]数量+1。
+aggressive_trendsetting,锐创潮流,潜袭者在其每个回合中第一次销毁一张已安装的公司卡牌时，其可以花费[click]。如果其未如此做，你在下回合获得的起始[click]数量+1。
 project_ingatan,忆存计划,"红利1<em>（当你将本议案计分时，每有一枚多余的推进指示物，放置1枚议案指示物到本议案上。）</em>
 当你的弃牌阶段结束时，你可以移除1枚所附载的议案指示物，以从档案库安装1张卡牌，忽略所有的费用。"
 humanoid_resources,仿生人力资源,[click][click][click]，[trash]<strong>：</strong>获得4[credit]并抽3张卡牌。从总部安装最多2张卡牌<em>（每次一张）</em>。你可以从总部打出1个事务。

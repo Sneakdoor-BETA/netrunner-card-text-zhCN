@@ -27,7 +27,7 @@
   {
     "id": "abaasy",
     "name": "阿巴契",
-    "text": "每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，你可以从你的操控器销毁1张卡牌，以抽1张卡牌。\n对接 → <strong>1[credit]：</strong>破解1条<strong>门禁</strong>子进程。\n<strong>2[credit]：</strong>强度+2。"
+    "text": "每回合本程序第一次完全破解一层防火墙时，你可以从你的操控器销毁1张卡牌，以抽1张卡牌。\n对接 → <strong>1[credit]：</strong>破解1条<strong>门禁</strong>子进程。\n<strong>2[credit]：</strong>强度+2。"
   },
   {
     "id": "abagnale",
@@ -77,7 +77,7 @@
   {
     "id": "active_policing",
     "name": "实时监管",
-    "text": "只有潜袭者在其上回合窃取或销毁过公司卡牌时，才能打出。\n在你结算本事务后，结束你的行动阶段。\n你可以从总部安装1张卡牌。潜袭者在其下回合获得的[click]数量-1。\n威胁3 → 你可以支付2[credit]。如果你如此做，潜袭者在其下回合获得的[click]数量-1。<em>（本能力在任一玩家有3点或更多议案分数时生效。）</em>"
+    "text": "只有潜袭者在其上回合窃取或销毁过公司卡牌时，才能打出。\n在你结算本事务后，结束你的行动阶段。\n你可以从总部安装1张卡牌。潜袭者在其下回合获得的起始[click]数量-1。\n威胁3 → 你可以支付2[credit]。如果你如此做，潜袭者在其下回合获得的起始[click]数量-1。<em>（本能力在任一玩家有3点或更多议案分数时生效。）</em>"
   },
   {
     "id": "activist_support",
@@ -352,7 +352,7 @@
   {
     "id": "aniccam",
     "name": "诸行无常",
-    "text": "+1[mu]\n每回合第一次一个事件被销毁时<em>(无论从什么位置)</em>，抽1张卡牌。\n每位玩家限制1个<strong>控制台</strong>。"
+    "text": "+1[mu]\n每回合第一次一个事件<em>(从任意位置)</em>被销毁时，抽1张卡牌。\n每位玩家限制1个<strong>控制台</strong>。"
   },
   {
     "id": "ankusa",
@@ -732,7 +732,7 @@
   {
     "id": "basilar_synthgland_2kvj",
     "name": "基底动脉合成腺体2KVJ",
-    "text": "当你安装本硬件时，受到2点核心伤害。\n每回合你获得的[click]数量+1。"
+    "text": "当你安装本硬件时，受到2点核心伤害。\n每回合你获得的起始[click]数量+1。"
   },
   {
     "id": "bass_ch1r180g4",
@@ -1182,7 +1182,7 @@
   {
     "id": "bukhgalter",
     "name": "会计师",
-    "text": "对接 → <strong>1[credit]：</strong>破解1条<strong>警报</strong>子进程。\n<strong>1[credit]：</strong>强度+1。\n每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，获得2[credit]。"
+    "text": "对接 → <strong>1[credit]：</strong>破解1条<strong>警报</strong>子进程。\n<strong>1[credit]：</strong>强度+1。\n每回合本程序第一次完全破解一层防火墙时，获得2[credit]。"
   },
   {
     "id": "bullfrog",
@@ -1907,7 +1907,7 @@
   {
     "id": "curupira",
     "name": "库鲁皮拉",
-    "text": "每当你遭遇一层<strong>屏障</strong>时，你可以花费3枚所附载的能量指示物，以略过该防火墙。\n每当你仅使用本程序破解所遭遇防火墙上的所有子进程时，放置1枚能量指示物到本程序上。\n对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。\n<strong>1[credit]：</strong>强度+1。"
+    "text": "每当你遭遇一层<strong>屏障</strong>时，你可以花费3枚所附载的能量指示物，以略过该防火墙。\n每当本程序完全破解一层防火墙时，放置1枚能量指示物到本程序上。\n对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。\n<strong>1[credit]：</strong>强度+1。"
   },
   {
     "id": "custom_biotics_engineered_for_success",
@@ -4022,7 +4022,7 @@
   {
     "id": "hypoxia",
     "name": "缺氧",
-    "text": "只有潜袭者被锁定时，才能打出。\n造成1点核心伤害。潜袭者在其下回合获得的[click]数量-1。\n将本事务移出游戏。"
+    "text": "只有潜袭者被锁定时，才能打出。\n造成1点核心伤害。潜袭者在其下回合获得的起始[click]数量-1。\n将本事务移出游戏。"
   },
   {
     "id": "i_ve_had_worse",
@@ -4867,7 +4867,7 @@
   {
     "id": "lobisomem",
     "name": "狼人",
-    "text": "当你安装本程序时，及每当你仅使用本程序破解所遭遇<strong>门禁</strong>上的所有子进程时，放置1枚能量指示物到本程序上。\n对接 → <strong>1[credit]：</strong>破解1条门禁子进程。\n对接 → <strong>X[credit]</strong>，<strong>所附载的能量指示物：</strong>破解X条屏障子进程。\n<strong>1[credit]：</strong>强度+2。"
+    "text": "当你安装本程序时，及每当其完全破解一个<strong>门禁</strong>时，放置1枚能量指示物到本程序上。\n对接 → <strong>1[credit]：</strong>破解1条门禁子进程。\n对接 → <strong>X[credit]</strong>，<strong>所附载的能量指示物：</strong>破解X条屏障子进程。\n<strong>1[credit]：</strong>强度+2。"
   },
   {
     "id": "localized_product_line",
@@ -5022,7 +5022,7 @@
   {
     "id": "makler",
     "name": "经纪人",
-    "text": "对接 → <strong>2[credit]：</strong>破解最多2条<strong>屏障</strong>子进程。\n<strong>2[credit]：</strong>强度+2。\n每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，获得1[credit]。"
+    "text": "对接 → <strong>2[credit]：</strong>破解最多2条<strong>屏障</strong>子进程。\n<strong>2[credit]：</strong>强度+2。\n每回合本程序第一次完全破解一层防火墙时，获得1[credit]。"
   },
   {
     "id": "malandragem",
@@ -6087,7 +6087,7 @@
   {
     "id": "orca",
     "name": "逆戟鲸",
-    "text": "每回合你第一次仅使用本程序破解所遭遇防火墙上的所有子进程时，你可以对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em>\n对接 → <strong>2[credit]：</strong>破解任意数量的<strong>警报</strong>子进程。\n<strong>2[credit]：</strong>强度+3。"
+    "text": "每回合本程序第一次完全破解一层防火墙时，你可以对1张你已安装的卡牌充能。<em>（在一张已经有能量指示物的卡牌上再放置1枚。）</em>\n对接 → <strong>2[credit]：</strong>破解任意数量的<strong>警报</strong>子进程。\n<strong>2[credit]：</strong>强度+3。"
   },
   {
     "id": "order_of_sol",
@@ -8017,7 +8017,7 @@
   {
     "id": "storgotic_resonator",
     "name": "同族共振",
-    "text": "每回合你第一次销毁一张与潜袭者特性派系相同的卡牌时（不论从什么位置），放置1枚能量指示物到本资产上。\n[click]，<strong>所附载的能量指示物：</strong>造成1点网域伤害。"
+    "text": "每回合你第一次<em>（从任意位置）</em>销毁一张与潜袭者特性派系相同的卡牌时，放置1枚能量指示物到本资产上。\n[click]，<strong>所附载的能量指示物：</strong>造成1点网域伤害。"
   },
   {
     "id": "strategic_innovations_future_forward",
@@ -8887,7 +8887,7 @@
   {
     "id": "tyr",
     "name": "提尔",
-    "text": "<strong>失去[click]：</strong>破解1条本防火墙上的子进程。公司在其下回合获得的[click]数量+1。只有潜袭者可以使用本能力。\n[subroutine] 造成2点核心伤害。\n[subroutine] 销毁1张已安装的潜袭者卡牌。获得3[credit]。\n[subroutine] 终止本次潜袭。"
+    "text": "<strong>失去[click]：</strong>破解1条本防火墙上的子进程。公司在其下回合获得的起始[click]数量+1。只有潜袭者可以使用本能力。\n[subroutine] 造成2点核心伤害。\n[subroutine] 销毁1张已安装的潜袭者卡牌。获得3[credit]。\n[subroutine] 终止本次潜袭。"
   },
   {
     "id": "tyrant",
@@ -9607,7 +9607,7 @@
   {
     "id": "maintenance_access",
     "name": "检修通道",
-    "text": "作为打出本事件的额外费用，花费[click]。\n潜袭档案库。当你将要接驳档案库时<em>（通过所有防火墙后）</em>，将被攻击的服务器改为总部并接驳总部。"
+    "text": "作为打出本事件的额外费用，花费[click]。\n潜袭档案库。当你<em>（在通过所有防火墙后）</em>将要接驳档案库时，将被攻击的服务器改为总部并接驳总部。"
   },
   {
     "id": "transfer_of_wealth",
@@ -9712,7 +9712,7 @@
   {
     "id": "aggressive_trendsetting",
     "name": "锐创潮流",
-    "text": "潜袭者在其每个回合中第一次销毁一张已安装的公司卡牌时，其可以花费[click]。如果其未如此做，你在下回合获得的[click]数量+1。"
+    "text": "潜袭者在其每个回合中第一次销毁一张已安装的公司卡牌时，其可以花费[click]。如果其未如此做，你在下回合获得的起始[click]数量+1。"
   },
   {
     "id": "project_ingatan",
